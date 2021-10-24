@@ -29,4 +29,5 @@ To run this project:
 * run this project using Tomcat's local server
 * you can use Postman to send POST request to test out the work of the controllers
 ```
-Or you can just check it out following this link 
+Or you can just check it out following this link https://movie-theater-spring.herokuapp.com/
+You can log in using email : test@test.com, password : test12345. After successful login you can follow this link https://movie-theater-spring.herokuapp.com/movies
